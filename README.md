@@ -77,3 +77,5 @@ flutter run
 📊 Contador de vitórias: Os pontos são armazenados e exibidos de forma contínua.
 
 🔄 Nova partida: Reinicie o jogo quando quiser.
+
+![Image](https://github.com/user-attachments/assets/feb8d33d-fabc-4022-a5c2-3b1c20f66df6)
