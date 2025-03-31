@@ -1,4 +1,4 @@
-✊ Projeto: JokenPo - Jogo de Pedra, Papel e Tesoura
+📌 Projeto: JokenPo - Jogo de Pedra, Papel e Tesoura
 
 🚀 Descrição
 
